@@ -1,0 +1,38 @@
+name: Run Python Script
+
+on:
+  schedule:
+    - cron: "50 * * * *"
+  push:
+    branches:
+      - main
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: "3.x"
+
+      - name: Install dependencies
+        run: |
+          pip install requests beautifulsoup4
+
+      - name: Run script
+        env:
+          GOOGLE_SECRET: ${{ secrets.GOOGLE_SECRET }}
+        run: python liris.py
+
+      - name: Commit and push changes
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config --global user.email "victor.buthod@epita.fr"
+          git config --global user.name "Lugdum"
+          git add offres_de_stage.json
+          git diff-index --quiet HEAD || (git commit -m "Mise à jour des offres de stage" && git push)

@@ -1,10 +1,42 @@
 [
-  {
-    "date_poste": "10/09/2024",
-    "titre": "Développement d’un prototype de réalité augmentée projective pour l'évaluation des perceptions sensorielles culinaires",
-    "lien": "https://liris.cnrs.fr/emploi/developpement-dun-prototype-realite-augmentee-projective-pour-levaluation-perceptions-0",
-    "duree_stage": "6",
-    "referent": "Guillaume Lavoué",
-    "niveau": "Master (M1, M2)"
-  }
+    {
+        "date_poste": "10/09/2024",
+        "titre": "Développement d’un prototype de réalité augmentée projective pour l'évaluation des perceptions sensorielles culinaires",
+        "lien": "https://liris.cnrs.fr/emploi/developpement-dun-prototype-realite-augmentee-projective-pour-levaluation-perceptions-0",
+        "duree_stage": "6",
+        "referent": "Guillaume Lavoué",
+        "niveau": "Master (M1, M2)"
+    },
+    {
+        "date_poste": "12/09/2024",
+        "titre": "Méta-heuristique ACO et apprentissage par renforcement pour la sparsification de graphes minimisant la distorsion.",
+        "lien": "https://liris.cnrs.fr/emploi/meta-heuristique-aco-et-apprentissage-par-renforcement-pour-sparsification-graphes-0",
+        "duree_stage": "5/6 mois",
+        "referent": "Samba Ndojh Ndiaye",
+        "niveau": "Master (M1, M2)"
+    },
+    {
+        "date_poste": "12/09/2024",
+        "titre": "Apprentissage par renforcement pour le calcul d'une clique dans un graphe n-parties représentant la micro-structure d'un CSP ou d'un COP.",
+        "lien": "https://liris.cnrs.fr/emploi/apprentissage-par-renforcement-pour-calcul-dune-clique-dans-un-graphe-n-parties-0",
+        "duree_stage": "5/6 mois",
+        "referent": "Samba Ndojh Ndiaye",
+        "niveau": "Master (M1, M2)"
+    },
+    {
+        "date_poste": "10/09/2024",
+        "titre": "Développement d’un prototype de réalité augmentée projective pour l'évaluation des perceptions sensorielles culinaires",
+        "lien": "https://liris.cnrs.fr/emploi/developpement-dun-prototype-realite-augmentee-projective-pour-levaluation-perceptions-1",
+        "duree_stage": "6",
+        "referent": "Guillaume Lavoué",
+        "niveau": "Master (M1, M2)"
+    },
+    {
+        "date_poste": "12/09/2024",
+        "titre": "Apprentissage par renforcement pour la résolution du problème de la somme coloration d'un graphe.",
+        "lien": "https://liris.cnrs.fr/emploi/apprentissage-par-renforcement-pour-resolution-probleme-somme-coloration-dun-graphe.-0",
+        "duree_stage": "5/6 mois",
+        "referent": "Samba Ndojh Ndiaye",
+        "niveau": "Master (M1, M2)"
+    }
 ]

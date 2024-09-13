@@ -38,5 +38,13 @@
         "duree_stage": "5/6 mois",
         "referent": "Samba Ndojh Ndiaye",
         "niveau": "Master (M1, M2)"
+    },
+    {
+        "date_poste": "13/09/2024",
+        "titre": "Situated Data Visualizations for Sports Videos",
+        "lien": "https://liris.cnrs.fr/emploi/situated-data-visualizations-sports-videos",
+        "duree_stage": "6 mois",
+        "referent": "Romain Vuillemot",
+        "niveau": "Master (M1, M2)"
     }
 ]

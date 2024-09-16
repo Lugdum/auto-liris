@@ -46,5 +46,21 @@
         "duree_stage": "6 mois",
         "referent": "Romain Vuillemot",
         "niveau": "Master (M1, M2)"
+    },
+    {
+        "date_poste": "15/09/2024",
+        "titre": "Graph Neural Networks with Attention to Understand the Colonization of Mosquito Larval Habitats According to their Biotic and Abiotic Characteristics.",
+        "lien": "https://liris.cnrs.fr/emploi/graph-neural-networks-attention-understand-colonization-mosquito-larval-habitats-according-0",
+        "duree_stage": "5/6 mois",
+        "referent": "Rémy Cazabet",
+        "niveau": "Master (M1, M2)"
+    },
+    {
+        "date_poste": "15/09/2024",
+        "titre": "Self-supervised learning for link prediction",
+        "lien": "https://liris.cnrs.fr/emploi/self-supervised-learning-link-prediction-0",
+        "duree_stage": "5/6 Mois",
+        "referent": "Rémy Cazabet",
+        "niveau": "Master (M1, M2)"
     }
 ]

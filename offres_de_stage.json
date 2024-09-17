@@ -62,5 +62,13 @@
         "duree_stage": "5/6 Mois",
         "referent": "Rémy Cazabet",
         "niveau": "Master (M1, M2)"
+    },
+    {
+        "date_poste": "08/02/2024",
+        "titre": "HAGARICE (Harnessing Argumentation Graphs in Augmented Reality for Immersive Co-Creation and Exploration)",
+        "lien": "https://liris.cnrs.fr/emploi/hagarice-harnessing-argumentation-graphs-augmented-reality-immersive-co-creation-and",
+        "duree_stage": "6",
+        "referent": "Bruno Yun",
+        "niveau": "Master (M1, M2)"
     }
 ]

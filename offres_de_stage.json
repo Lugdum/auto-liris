@@ -70,5 +70,13 @@
         "duree_stage": "6",
         "referent": "Bruno Yun",
         "niveau": "Master (M1, M2)"
+    },
+    {
+        "date_poste": "26/09/2024",
+        "titre": "Schema-based Graph Data Integration",
+        "lien": "https://liris.cnrs.fr/emploi/schema-based-graph-data-integration",
+        "duree_stage": "6 mois",
+        "referent": "Angela Bonifati",
+        "niveau": "Master (M1, M2)"
     }
 ]

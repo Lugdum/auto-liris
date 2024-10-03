@@ -78,5 +78,13 @@
         "duree_stage": "6 mois",
         "referent": "Angela Bonifati",
         "niveau": "Master (M1, M2)"
+    },
+    {
+        "date_poste": "02/10/2024",
+        "titre": "Property Graph Encoding for Large Language Model",
+        "lien": "https://liris.cnrs.fr/emploi/property-graph-encoding-large-language-model",
+        "duree_stage": "6",
+        "referent": "Angela Bonifati, Andrea Mauri",
+        "niveau": "Master (M1, M2)"
     }
 ]

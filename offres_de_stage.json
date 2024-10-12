@@ -86,5 +86,13 @@
         "duree_stage": "6",
         "referent": "Angela Bonifati, Andrea Mauri",
         "niveau": "Master (M1, M2)"
+    },
+    {
+        "date_poste": "12/10/2024",
+        "titre": "Construction automatique d’un graphe de connaissances géo-historiques à partir d’entrées encyclopédiques",
+        "lien": "https://liris.cnrs.fr/emploi/construction-automatique-dun-graphe-connaissances-geo-historiques-partir-dentrees",
+        "duree_stage": "6 mois",
+        "referent": "Fabien Duchateau, Frédérique Laforest, Ludovic Moncla",
+        "niveau": "Master (M1, M2)"
     }
 ]

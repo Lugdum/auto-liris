@@ -118,5 +118,13 @@
         "duree_stage": "6 mois",
         "referent": "",
         "niveau": ""
+    },
+    {
+        "date_poste": "29/10/2024",
+        "titre": "Maintenance et ajout de fonctionnalités pour la plateforme de réalité augmentée HERA.",
+        "lien": "https://liris.cnrs.fr/emploi/maintenance-et-ajout-fonctionnalites-pour-plateforme-realite-augmentee-hera.",
+        "duree_stage": "6 mois",
+        "referent": "Jean-Philippe Farrugia, Fabrice Jaillet, Bruno Tellez",
+        "niveau": "Master (M1, M2)"
     }
 ]

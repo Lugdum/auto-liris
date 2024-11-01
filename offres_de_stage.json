@@ -126,5 +126,29 @@
         "duree_stage": "6 mois",
         "referent": "Jean-Philippe Farrugia, Fabrice Jaillet, Bruno Tellez",
         "niveau": "Master (M1, M2)"
+    },
+    {
+        "date_poste": "31/10/2024",
+        "titre": "Mise en œuvre d’un algorithme décentralisé à base de consensus pour l’allocation de tâches",
+        "lien": "https://liris.cnrs.fr/emploi/mise-en-oeuvre-dun-algorithme-decentralise-base-consensus-pour-lallocation-taches",
+        "duree_stage": "4 à 6 mois",
+        "referent": "Maxime Morge",
+        "niveau": "Master (M1, M2)"
+    },
+    {
+        "date_poste": "30/08/2024",
+        "titre": "Animation temps-réel par capture de mouvement et simulation physique",
+        "lien": "https://liris.cnrs.fr/emploi/animation-temps-reel-par-capture-mouvement-et-simulation-physique-0",
+        "duree_stage": "5-6 mois",
+        "referent": "Erwan Guillou, Nicolas Pronost",
+        "niveau": "Master (M1, M2)"
+    },
+    {
+        "date_poste": "31/10/2024",
+        "titre": "Analyse des activités de régulation sur Stack Overflow",
+        "lien": "https://liris.cnrs.fr/emploi/analyse-activites-regulation-sur-stack-overflow",
+        "duree_stage": "4 à 6 mois",
+        "referent": "Maxime Morge",
+        "niveau": "Master (M1, M2)"
     }
 ]

@@ -150,5 +150,13 @@
         "duree_stage": "4 à 6 mois",
         "referent": "Maxime Morge",
         "niveau": "Master (M1, M2)"
+    },
+    {
+        "date_poste": "06/11/2024",
+        "titre": "Définition et mise en œuvre de politiques d'usage intégrant des données IoT et IA",
+        "lien": "https://liris.cnrs.fr/emploi/definition-et-mise-en-oeuvre-politiques-dusage-integrant-donnees-iot-et-ia",
+        "duree_stage": "6 mois",
+        "referent": "Nadia Bennani, Noura Faci, Paul Lachat",
+        "niveau": "Master (M1, M2)"
     }
 ]

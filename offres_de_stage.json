@@ -166,5 +166,21 @@
         "duree_stage": "4 à 6 mois",
         "referent": "Elise Lavoué, Audrey Serna",
         "niveau": "Master (M1, M2)"
+    },
+    {
+        "date_poste": "12/11/2024",
+        "titre": "A DBMS enriched with Differential Privacy taking user knowledge into account",
+        "lien": "https://liris.cnrs.fr/emploi/dbms-enriched-differential-privacy-taking-user-knowledge-account",
+        "duree_stage": "6 mois",
+        "referent": "Nadia Bennani",
+        "niveau": "Master (M1, M2)"
+    },
+    {
+        "date_poste": "11/11/2024",
+        "titre": "Multi-modal explainable machine learning for exploring consciousness recovery of coma patients",
+        "lien": "https://liris.cnrs.fr/emploi/multi-modal-explainable-machine-learning-exploring-consciousness-recovery-coma-patients-0",
+        "duree_stage": "5-6",
+        "referent": "Stefan Duffner",
+        "niveau": "Master (M1, M2)"
     }
 ]

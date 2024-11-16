@@ -182,5 +182,13 @@
         "duree_stage": "5-6",
         "referent": "Stefan Duffner",
         "niveau": "Master (M1, M2)"
+    },
+    {
+        "date_poste": "15/11/2024",
+        "titre": "Stage en Science des Données - Désimperméabiliser la ville (H/F)",
+        "lien": "https://liris.cnrs.fr/emploi/stage-en-science-donnees-desimpermeabiliser-ville-hf",
+        "duree_stage": "5-6 mois",
+        "referent": "Gilles Gesquiere, John Samuel",
+        "niveau": "Master (M1, M2)"
     }
 ]

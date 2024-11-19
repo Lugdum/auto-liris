@@ -190,5 +190,13 @@
         "duree_stage": "5-6 mois",
         "referent": "Gilles Gesquiere, John Samuel",
         "niveau": "Master (M1, M2)"
+    },
+    {
+        "date_poste": "19/11/2024",
+        "titre": "AI methods for analyzing and predicting residential energy consumption based on the user’s behavior / Méthodes IA pour l’analyse et la prédiction de la consommation d’énergie résidentielle à partir du comportement des utilisateurs",
+        "lien": "https://liris.cnrs.fr/emploi/ai-methods-analyzing-and-predicting-residential-energy-consumption-based-users-behavior",
+        "duree_stage": "5 mois",
+        "referent": "Parisa Ghodous, Mohamed Essaid Khanouche",
+        "niveau": "Master (M1, M2)"
     }
 ]

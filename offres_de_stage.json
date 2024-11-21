@@ -198,5 +198,29 @@
         "duree_stage": "5 mois",
         "referent": "Parisa Ghodous, Mohamed Essaid Khanouche",
         "niveau": "Master (M1, M2)"
+    },
+    {
+        "date_poste": "20/11/2024",
+        "titre": "Détection de composants structuraux dans des nuages de points de bâtiments",
+        "lien": "https://liris.cnrs.fr/emploi/detection-composants-structuraux-dans-nuages-points-batiments",
+        "duree_stage": "6",
+        "referent": "Guillaume Damiand",
+        "niveau": "Master (M1, M2)"
+    },
+    {
+        "date_poste": "20/11/2024",
+        "titre": "Réseaux de neurones légers pour la vision basée événements / Lightweight neural networks for event-based vision",
+        "lien": "https://liris.cnrs.fr/emploi/reseaux-neurones-legers-pour-vision-basee-evenements-lightweight-neural-networks-event-based",
+        "duree_stage": "5 ou 6 mois",
+        "referent": "Franck Davoine",
+        "niveau": "Master (M1, M2)"
+    },
+    {
+        "date_poste": "20/11/2024",
+        "titre": "Collecte et analyse de comportements humains en réalité virtuelle multisensorielle pour leur prédiction / Capture and analysis of human behaviours in multisensory virtual reality for its prediction",
+        "lien": "https://liris.cnrs.fr/emploi/collecte-et-analyse-comportements-humains-en-realite-virtuelle-multisensorielle-pour-leur",
+        "duree_stage": "5-6 mois",
+        "referent": "Guillaume Lavoué, Pierre Raimbaud",
+        "niveau": "Master (M1, M2)"
     }
 ]

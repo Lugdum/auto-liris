@@ -238,5 +238,13 @@
         "duree_stage": "5-6 mois",
         "referent": "Emmanuel Dellandréa",
         "niveau": "Master (M1, M2)"
+    },
+    {
+        "date_poste": "06/12/2024",
+        "titre": "Behavior Cloning Applied to Robotic Manipulation Learning",
+        "lien": "https://liris.cnrs.fr/emploi/behavior-cloning-applied-robotic-manipulation-learning",
+        "duree_stage": "5-6 mois",
+        "referent": "Emmanuel Dellandréa",
+        "niveau": "Master (M1, M2)"
     }
 ]

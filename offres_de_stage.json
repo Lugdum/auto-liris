@@ -254,5 +254,21 @@
         "duree_stage": "5-6 mois",
         "referent": "Mohsen Ardabilian, Alexandre Sadegh Saidi",
         "niveau": "Master (M1, M2)"
+    },
+    {
+        "date_poste": "10/10/2024",
+        "titre": "Evaluation de l’expérience utilisateur dans les applications de réalité augmentée muséographique : impact de la qualité de l’éclairage et des matériaux sur l’engagement utilisateur. — Evaluating user experience in museum augmented reality applications: im",
+        "lien": "https://liris.cnrs.fr/emploi/evaluation-lexperience-utilisateur-dans-applications-realite-augmentee-museographique-impact",
+        "duree_stage": "6 mois",
+        "referent": "Jean-Philippe Farrugia",
+        "niveau": "Master (M1, M2)"
+    },
+    {
+        "date_poste": "03/12/2024",
+        "titre": "Internship Positions on Garment Semantic Understanding",
+        "lien": "https://liris.cnrs.fr/emploi/internship-positions-garment-semantic-understanding",
+        "duree_stage": "6 mois",
+        "referent": "Liming Chen, Shaifali Parashar",
+        "niveau": "Master (M1, M2)"
     }
 ]

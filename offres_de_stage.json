@@ -270,5 +270,13 @@
         "duree_stage": "6 mois",
         "referent": "Liming Chen, Shaifali Parashar",
         "niveau": "Master (M1, M2)"
+    },
+    {
+        "date_poste": "25/02/2025",
+        "titre": "Behavioral Analysis to Improve Students’ Academic Performance Using Artificial Intelligence",
+        "lien": "https://liris.cnrs.fr/emploi/behavioral-analysis-improve-students-academic-performance-using-artificial-intelligence",
+        "duree_stage": "5 mois",
+        "referent": "Mohamed Essaid Khanouche",
+        "niveau": "Master (M1, M2)"
     }
 ]

@@ -278,5 +278,29 @@
         "duree_stage": "5 mois",
         "referent": "Mohamed Essaid Khanouche",
         "niveau": "Master (M1, M2)"
+    },
+    {
+        "date_poste": "10/01/2025",
+        "titre": "Generative AI methods to model Printing-and-Digitalization process",
+        "lien": "https://liris.cnrs.fr/emploi/generative-ai-methods-model-printing-and-digitalization-process",
+        "duree_stage": "6 mois",
+        "referent": "Iuliia Tkachenko",
+        "niveau": "Master (M1, M2)"
+    },
+    {
+        "date_poste": "15/10/2024",
+        "titre": "Machine-learning-based analysis of Pseudo Mass-Spectrum Images for Targeted Peptides Identification",
+        "lien": "https://liris.cnrs.fr/emploi/machine-learning-based-analysis-pseudo-mass-spectrum-images-targeted-peptides-identification",
+        "duree_stage": "6 mois",
+        "referent": "Zied Bouyahya",
+        "niveau": "Master (M1, M2)"
+    },
+    {
+        "date_poste": "10/01/2025",
+        "titre": "Détection de Deepfakes en analysant la palette des couleurs d’image",
+        "lien": "https://liris.cnrs.fr/emploi/detection-deepfakes-en-analysant-palette-couleurs-dimage",
+        "duree_stage": "4-6 mois",
+        "referent": "Iuliia Tkachenko",
+        "niveau": "Master (M1, M2)"
     }
 ]
